@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: rgb(255, 119, 0);
+}
+
+h2 {
+    color: rgb(255, 119, 0);
+}
+
+div {
+    float: left;
+    color: aqua;
+}
+
+div:hover {
+    color: rgb(255, 119, 0);
+    border-color: rgb(255, 119, 0);
+}
+
+h3 {
+    margin: 0%;
+}
