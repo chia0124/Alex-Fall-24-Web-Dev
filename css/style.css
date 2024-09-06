@@ -6,7 +6,7 @@ h1 {
     color: rgb(255, 119, 0);
 }
 
-h2 {
+h3 {
     color: rgb(255, 119, 0);
 }
 
@@ -20,6 +20,6 @@ div:hover {
     border-color: rgb(255, 119, 0);
 }
 
-h3 {
+h4 {
     margin: 0%;
 }
